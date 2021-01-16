@@ -4,9 +4,17 @@
 
 # Usage
 
+To use this repository as a GitHub project template:
+
 ```bash
 pip install cookiecutter
 cookiecutter gh:bcochofel/gh-project-cookiecutter
+
+# configure pre-commit and execute
+pre-commit install
+
+# needs https://github.com/git-chglog/git-chglog
+git-chglog --init
 ```
 
 # pre-commit hooks

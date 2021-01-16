@@ -1,5 +1,7 @@
 # git-chglog
 
+The Changelog file is maintained using [git-chglog](https://github.com/git-chglog/git-chglog)
+
 ```bash
 ❯ git-chglog --init
 ? What is the URL of your repository? {{ github_url }}
