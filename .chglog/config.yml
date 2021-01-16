@@ -2,7 +2,7 @@ style: github
 template: CHANGELOG.tpl.md
 info:
   title: CHANGELOG
-  repository_url: {{ github_url }}
+  repository_url: https://github.com/bcochofel/gh-project-cookiecutter
 options:
   commits:
     # filters:
