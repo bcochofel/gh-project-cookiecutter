@@ -2,6 +2,12 @@
 ## [Unreleased]
 
 
+<a name="0.1.2"></a>
+## [0.1.2] - 2021-01-16
+### Fix
+- workflow
+
+
 <a name="0.1.1"></a>
 ## [0.1.1] - 2021-01-16
 ### Docs
@@ -14,5 +20,6 @@
 - First commit
 
 
-[Unreleased]: https://github.com/bcochofel/gh-project-cookiecutter/compare/0.1.1...HEAD
+[Unreleased]: https://github.com/bcochofel/gh-project-cookiecutter/compare/0.1.2...HEAD
+[0.1.2]: https://github.com/bcochofel/gh-project-cookiecutter/compare/0.1.1...0.1.2
 [0.1.1]: https://github.com/bcochofel/gh-project-cookiecutter/compare/0.1.0...0.1.1
