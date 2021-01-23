@@ -1,21 +1,6 @@
-# gh-project-cookiecutter
+# {{ cookiecutter.project_name }}
 
 [![pre-commit badge][pre-commit-badge]][pre-commit] [![Conventional commits badge][conventional-commits-badge]][conventional-commits] [![Keep a Changelog v1.1.0 badge][keep-a-changelog-badge]][keep-a-changelog] [![MIT License Badge][license-badge]][license]
-
-# Usage
-
-To use this repository as a GitHub project template:
-
-```bash
-pip install cookiecutter
-cookiecutter gh:bcochofel/gh-project-cookiecutter
-
-# configure pre-commit and execute
-pre-commit install
-
-# needs https://github.com/git-chglog/git-chglog
-git-chglog --init
-```
 
 # pre-commit hooks
 
