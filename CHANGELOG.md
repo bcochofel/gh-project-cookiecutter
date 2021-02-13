@@ -8,7 +8,11 @@
 - hooks
 
 ### Fix
+- post hook
 - gh actions name
+
+### Pull Requests
+- Merge pull request [#4](https://github.com/bcochofel/gh-project-cookiecutter/issues/4) from bcochofel/hooks
 
 
 <a name="1.0.0"></a>
