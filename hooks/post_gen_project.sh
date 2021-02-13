@@ -6,7 +6,6 @@ if ! command -v pre-commit &>/dev/null; then
     exit 1
 fi
 
-cd {{ cookiecutter.project_name }}
 git init
 git add .
 git commit -m "first commit"
