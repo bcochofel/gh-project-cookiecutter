@@ -7,6 +7,9 @@
 ### Feat
 - hooks
 
+### Fix
+- gh actions name
+
 
 <a name="1.0.0"></a>
 ## [1.0.0] - 2021-01-23
