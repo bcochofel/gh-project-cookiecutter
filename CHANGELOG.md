@@ -2,6 +2,12 @@
 ## [Unreleased]
 
 
+<a name="1.1.1"></a>
+## [1.1.1] - 2021-02-13
+### Fix
+- post hook
+
+
 <a name="1.1.0"></a>
 ## [1.1.0] - 2021-02-13
 ### Feat
@@ -12,6 +18,7 @@
 - gh actions name
 
 ### Pull Requests
+- Merge pull request [#5](https://github.com/bcochofel/gh-project-cookiecutter/issues/5) from bcochofel/fix_post_hook
 - Merge pull request [#4](https://github.com/bcochofel/gh-project-cookiecutter/issues/4) from bcochofel/hooks
 
 
@@ -39,6 +46,7 @@
 - Merge pull request [#1](https://github.com/bcochofel/gh-project-cookiecutter/issues/1) from bcochofel/fix--github-workflows
 
 
-[Unreleased]: https://github.com/bcochofel/gh-project-cookiecutter/compare/1.1.0...HEAD
+[Unreleased]: https://github.com/bcochofel/gh-project-cookiecutter/compare/1.1.1...HEAD
+[1.1.1]: https://github.com/bcochofel/gh-project-cookiecutter/compare/1.1.0...1.1.1
 [1.1.0]: https://github.com/bcochofel/gh-project-cookiecutter/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/bcochofel/gh-project-cookiecutter/compare/0.2.0...1.0.0
