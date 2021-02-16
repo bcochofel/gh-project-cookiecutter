@@ -2,26 +2,25 @@
 
 [![pre-commit badge][pre-commit-badge]][pre-commit] [![Conventional commits badge][conventional-commits-badge]][conventional-commits] [![Keep a Changelog v1.1.0 badge][keep-a-changelog-badge]][keep-a-changelog] [![MIT License Badge][license-badge]][license]
 
-# Usage
+## Usage
 
 To use this repository as a GitHub project template:
 
 ```bash
 pip install cookiecutter
 cookiecutter gh:bcochofel/gh-project-cookiecutter
-
-# configure pre-commit and execute
-pre-commit install
-
-# needs https://github.com/git-chglog/git-chglog
-git-chglog --init
 ```
 
-# pre-commit hooks
+pre-commit hooks are installed using post hook.
+Check [this](hooks/post_gen_project.sh) to see what else gets executed.
+
+After creating your Github repository don't forget to set your remote origin and push.
+
+## pre-commit hooks
 
 Read the [pre-commit hooks](docs/pre-commit-hooks.md) document for more info.
 
-# git-chglog
+## git-chglog
 
 Read the [git-chglog](docs/git-chlog.md) document for more info.
 
