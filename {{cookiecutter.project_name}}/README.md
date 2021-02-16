@@ -2,11 +2,11 @@
 
 [![pre-commit badge][pre-commit-badge]][pre-commit] [![Conventional commits badge][conventional-commits-badge]][conventional-commits] [![Keep a Changelog v1.1.0 badge][keep-a-changelog-badge]][keep-a-changelog] [![MIT License Badge][license-badge]][license]
 
-# pre-commit hooks
+## pre-commit hooks
 
 Read the [pre-commit hooks](docs/pre-commit-hooks.md) document for more info.
 
-# git-chglog
+## git-chglog
 
 Read the [git-chglog](docs/git-chlog.md) document for more info.
 
