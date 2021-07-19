@@ -2,10 +2,16 @@
 ## [Unreleased]
 
 
+<a name="1.1.4"></a>
+## [1.1.4] - 2021-07-19
+
 <a name="1.1.3"></a>
 ## [1.1.3] - 2021-02-16
 ### Docs
 - project README
+
+### Pull Requests
+- Merge pull request [#8](https://github.com/bcochofel/gh-project-cookiecutter/issues/8) from bcochofel/project_readme
 
 
 <a name="1.1.2"></a>
@@ -64,7 +70,8 @@
 - Merge pull request [#1](https://github.com/bcochofel/gh-project-cookiecutter/issues/1) from bcochofel/fix--github-workflows
 
 
-[Unreleased]: https://github.com/bcochofel/gh-project-cookiecutter/compare/1.1.3...HEAD
+[Unreleased]: https://github.com/bcochofel/gh-project-cookiecutter/compare/1.1.4...HEAD
+[1.1.4]: https://github.com/bcochofel/gh-project-cookiecutter/compare/1.1.3...1.1.4
 [1.1.3]: https://github.com/bcochofel/gh-project-cookiecutter/compare/1.1.2...1.1.3
 [1.1.2]: https://github.com/bcochofel/gh-project-cookiecutter/compare/1.1.1...1.1.2
 [1.1.1]: https://github.com/bcochofel/gh-project-cookiecutter/compare/1.1.0...1.1.1
